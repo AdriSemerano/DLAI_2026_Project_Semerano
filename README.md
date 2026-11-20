@@ -77,7 +77,7 @@ To reproduce any row from **Table 1** or **Appendix Table 2**, invoke `run_exper
 | **ResNet** | `Leak_ResNet_PCEN_Mixup_Spec_Focal` | `True` | `True` | `True` | `True` | `False` | `False` | 0.9996 | 0.77718 |
 | **ResNet** | `ResNet_PCEN_SE_Mixup_Spec_Focal` | `True` | `True` | `True` | `True` | `True` | `True` | 0.7279 | 0.69963 |
 | **ResNet** | `ResNet_PCEN_Mixup_Spec_Focal` | `True` | `True` | `True` | `True` | `False` | `True` | 0.7606 | 0.74735 |
-| **ResNet** | `ResNet_PCEN_Mixup_Focal` | `True` | `True` | `False` | `True` | `False` | `True` | 0.7768 | 0.73361 |
+| **ResNet** | `ResNet_PCEN_Mixup_Spec` | `True` | `True` | `True` | `False` | `False` | `True` | 0.7768 | 0.73361 |
 | **ResNet** | `ResNet_PCEN_Mixup` | `True` | `True` | `False` | `False` | `False` | `True` | 0.7170 | 0.71172 |
 | **ResNet** | `ResNet_PCEN` | `True` | `False` | `False` | `False` | `False` | `True` | 0.6478 | 0.67958 |
 | **ResNet** | `ResNet` (Log-Mel baseline) | `False` | `False` | `False` | `False` | `False` | `True` | 0.5416 | 0.50306 |
